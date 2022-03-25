@@ -1,0 +1,18 @@
+.card-design
+{ 
+    background-color: rgb(184, 219, 219);
+    padding: 20px;
+}
+
+.btn-parent
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-cart
+{
+    border: black;
+    background-color: orange;
+    display: flex;
+}
